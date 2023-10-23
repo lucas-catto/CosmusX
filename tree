@@ -1,0 +1,37 @@
+
+Controller
+    - Index
+    - Home
+        - User
+        - Admin
+    - Login
+    - Privacy
+
+Services
+    - Index
+    - Home
+        - User
+        - Admin
+            - Cadastrar
+            - Adicionar
+                - Aluno
+                - Livro
+    - Login
+    - Privacy
+
+Model
+    - Index
+    - Home
+        - User
+        - Admin
+    - Login
+    - Privacy
+
+View
+    - modules
+        - Index
+        - Home
+            - User
+            - Admin
+        - Login
+        - Privacy
